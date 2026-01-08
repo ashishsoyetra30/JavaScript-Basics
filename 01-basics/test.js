@@ -1,1 +1,0 @@
-console.log("Writing my first code after a long time.")
