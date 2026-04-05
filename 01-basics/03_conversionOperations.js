@@ -18,3 +18,6 @@ When converting
 "33BCA" => NaN
 
 */
+
+console.log("1" + 2 + 2); // o/p = 122
+console.log(1 + 2 + "2");// o/p = 32
