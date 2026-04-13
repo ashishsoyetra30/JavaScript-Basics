@@ -49,6 +49,7 @@ const chai =  () => {
 // implicit method mtlb ek line wala
 const addTwo = (num1, num2) => ({username: "hitesh"})
 
+// object to return krna ho like upar toh usko () iske ander wrap krna hoga
 
 console.log(addTwo(3, 4))
 
